@@ -1,0 +1,30 @@
+# Reflection: Target User Segments
+## Athletes & Long-Distance Runners
+
+For athletes whose feet endure extreme stress—marathoners, trail runners, soccer players, and dancers—foot health is often the barrier between peak performance and career-ending injuries. Based on research:
+
+# Critical Needs Addressed
+## Injury Prevention
+
+73% of runners experience foot/ankle injuries annually. Our system targets the top 4 culprits:
+
+Plantar fasciitis (30% of cases): Alerts for abnormal arch pressure (>250 kPa) and asymmetric temperature (>2.2°C difference) 4
+
+Stress fractures: ML models flag cumulative step impacts exceeding bone recovery thresholds 
+
+Achilles tendinitis: Gait analysis detects overstriding (cadence <160 steps/min) linked to 42% of cases 
+
+Metatarsalgia: Pressure sensors identify forefoot overload (>55% body weight distribution)
+
+
+
+## Why This Resonates
+As someone who is constantly on her feet, I designed this for athletes who wants to keep their feet in good health. The system translates complex biomechanics into actionable insights:
+
+“Reduce pace by 0.5 m/s for 20 mins to lower Achilles tendon load”
+
+“Replace shoes after 302 miles (current wear: 80% tread depth)”
+
+“Elevated midfoot pressure detected—activate arch-strengthening mode”
+
+By bridging wearable tech and clinical-grade analytics, we empower athletes to train smarter—not just harder—preserving their passion and mobility.
